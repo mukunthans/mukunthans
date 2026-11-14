@@ -29,9 +29,10 @@ I earned my M.Tech in Computer Science at **IIT Madras**. Outside work, I build 
 </details>
 
 <details>
-<summary><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/cards.png"><img src="assets/cards.gif" width="24" height="24" alt=""></picture> <strong>Browser games</strong> · Bluff with friends, clear a minefield, or race the clock</summary>
+<summary><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/cards.png"><img src="assets/cards.gif" width="24" height="24" alt=""></picture> <strong>Browser games</strong> · Split a pot, bluff with friends, or race the clock</summary>
 
-- **[Cheat Cards](https://github.com/mukunthans/cheat-cards)** — A multiplayer bluffing game for two to four friends. Open a private room, choose a number, and see who calls your bluff. **[Play online ↗](https://cheat-cards.netlify.app/)**
+- **The Last Grab** — A multiplayer party game for 2–8 friends. Secretly choose Split or Grab, catch a thief with Guard, and reveal together. **[Play online ↗](https://the-last-grab.onrender.com/)**
+- **[Cheat Cards](https://github.com/mukunthans/cheat-cards)** — A multiplayer bluffing game for two to four friends. Open a private room, choose a number, and see who calls your bluff. *Hosting paused while The Last Grab is live.*
 - **[Minesweeper](https://github.com/mukunthans/Minesweeper-Final)** — Three difficulty levels with different board sizes, mine counts, and time limits.
 - **[Speed Typing](https://github.com/mukunthans/SpeedTyping-JS)** — A small browser typing game written in JavaScript.
 
